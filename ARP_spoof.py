@@ -1,3 +1,5 @@
+__author__ = 'Sreenivasa Rao'
+__github__ = 'https://github.com/sreenivas134'
 from subprocess import *
 import os
 from scapy.all import *
